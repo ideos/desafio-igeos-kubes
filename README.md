@@ -79,7 +79,7 @@ Não publique credenciais reais, tokens, arquivos `.env`, dumps com dados pessoa
 
 ## Tempo e avaliação
 
-Você terá até **23h59 do dia 17/09/2026** para enviar sua solução. A apresentação terá duração de **25 minutos**, em uma entrevista a ser agendada posteriormente conforme a disponibilidade.
+Você terá até **23h59 do dia 20/09/2026** para enviar sua solução. A apresentação terá duração de **25 minutos**, em uma entrevista a ser agendada posteriormente conforme a disponibilidade.
 
 Não exigimos cloud, domínio, Kubernetes, alta disponibilidade ou contratação de serviços. A solução deve funcionar localmente. Informe os recursos da máquina usada e qualquer limitação de memória ou arquitetura que você encontrar.
 
