@@ -66,7 +66,7 @@ Não use `docker compose down -v` nos testes de preservação: essa opção remo
 
 ## Entrega
 
-Disponibilize sua solução em um fork ou repositório acessível à equipe avaliadora e envie o link pelo canal do processo seletivo. Não é necessário abrir um pull request neste repositório.
+Disponibilize sua solução em um repositório privado acessível à equipe avaliadora e envie o link pelo mesmo canal que você recebeu o desafio.
 
 Inclua:
 
